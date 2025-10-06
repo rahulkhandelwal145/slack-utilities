@@ -1,0 +1,4 @@
+Below keys need to have values in a .env file to run the application
+SLACK_BOT_TOKEN=
+SLACK_APP_TOKEN=
+HUGGINGFACEHUB_API_TOKEN=
